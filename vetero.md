@@ -10,8 +10,3 @@ fontoj:
     eo: "Filmo de Jung&Naiv: Klimatesploristino Fredi Otto pri ekstremaj vetereventoj"
     url: https://www.youtube.com/watch?v=xXYLPx63muE
 ---
-
-
-{% for f in page.fontoj %}
-- [{{ f.eo }}]({{f.url}}) ({{f.lng}})
-{% endfor %}

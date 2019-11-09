@@ -9,12 +9,12 @@ fontoj:
   - lng: en
     eo: Nia Mondo en Datumoj - Naturkatastrofoj
     url: https://ourworldindata.org/natural-disasters
+  - en: Famine early warning system
+    eo: Fruaverta sistemo pri malsatoj
+    url: http://fews.net/
 ---
 
 
-{% for f in page.fontoj %}
-- [{{ f.eo }}]({{f.url}}) ({{f.lng}})
-{% endfor %}
 
 Bona efiko de tutmondiĝo kaj Unuiĝintaj Nacioj: la homoj lernis mildigi naturajn katastrofojn - per pli lerta konstruado kaj
 organizado de rapida helpo.

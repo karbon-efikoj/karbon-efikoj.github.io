@@ -11,5 +11,6 @@ efikas multflanke kaj malstabilige.
 
 La informfontoj estas plurlingvaj, sed la retpaĝo mem estas en Esperanto.
 
-Se vi ŝatas kontribui, anonciĝu ĉe la [projekto en Github](https://github.com/karbon-efikoj/karbon-efikoj.github.io).
+Se vi ŝatas kontribui, bv. anonciu tion ĉe la [projekto en Github](https://github.com/karbon-efikoj/karbon-efikoj.github.io) - plej
+simple kreante peton sub "Issues".
 

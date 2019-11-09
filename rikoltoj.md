@@ -25,7 +25,3 @@ fontoj:
     url: https://ourworldindata.org/crop-yields
 ---
 
-
-{% for f in page.fontoj %}
-- [{{ f.eo }}]({{f.url}}) ({{f.lng}})
-{% endfor %}

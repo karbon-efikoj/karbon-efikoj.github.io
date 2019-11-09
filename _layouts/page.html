@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    <ul>
+    {% for f in page.fontoj %}
+        {% assign lng = site.data.lingvoj[f.lng] %}
+    <li><p><a href="{{f.url}}">{{f.eo}}</a>
+        {% if lng %} ({{lng}}) {% endif %}</p></li>
+    {% endfor %}   
+    </ul> 
+  </div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
