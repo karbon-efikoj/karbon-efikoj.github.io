@@ -7,6 +7,16 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+  <div class="post-content">
+        <ul>
+        {% for f in page.fontoj %}
+            {% assign lng = site.data.lingvoj[f.lng] %}
+        <li><p><a href="{{f.url}}">{{f.eo}}</a>
+            {% if lng %} ({{lng}}) {% endif %}</p></li>
+        {% endfor %}   
+        </ul> 
+  </div>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
