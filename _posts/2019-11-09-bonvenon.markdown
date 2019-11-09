@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Bonvenon ĉe Karbonefikoj"
+date:   2019-11-09
+categories: enkonduko
+---
+
+Tiu ĉi retpaĝo kolektas informojn, kiuj helpas kompreni la efikojn de atmosfere kolektiĝanta karbono,
+t.e. CO₂, metanoj k.a., kiuj sume kaŭzas varmiĝon de la averaĝa temperaturo de la planedo kaj
+efikas multflanke kaj malstabilige.
+
+La informfontoj estas plurlingvaj, sed la retpaĝo mem estas en Esperanto.
+
+Se vi ŝatas kontribui, anonciĝu ĉe la [projekto en Github](https://github.com/karbon-efikoj/karbon-efikoj.github.io).
+

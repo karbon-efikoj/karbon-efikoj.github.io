@@ -1,0 +1,14 @@
+---
+---
+/* customizing did not work as explained in https://github.com/jekyll/minima
+  maybe documentation is newer than the used version? */
+@import "{{ site.theme }}";
+body {
+  background: #e2e2db;
+}
+.site-header {
+  border-bottom: 1px solid gray;
+}
+.site-footer {
+  border-top: 1px solid gray;
+}
