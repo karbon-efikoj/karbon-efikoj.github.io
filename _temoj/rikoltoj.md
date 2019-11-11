@@ -23,5 +23,13 @@ fontoj:
     en: Our World in Data - Crop Yields
     eo: Nia mondo laŭ datumoj - Rikoltrezultoj
     url: https://ourworldindata.org/crop-yields
+  - lng: en
+    en: Our World in Data - Hunger and Undernourishment
+    eo: Nia mondo laŭ datumoj - Malsato kaj nesufiĉa nutrado
+    url: https://ourworldindata.org/hunger-and-undernourishment
+  - lng: en
+    en: Our World in Data - Famines
+    eo: Nia mondo laŭ datumoj - Malsatoj
+    url: https://ourworldindata.org/famines
 ---
 

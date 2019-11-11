@@ -8,7 +8,7 @@
       </clipPath>
     </defs>
     <g id="y.node.0">
-      <a target="_blank" xlink:type="simple" xlink:href="karbonaĵoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/karbonaĵoj.html" xlink:show="new">
         <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(51,51,51)">
           <rect x="270" y="98" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -25,7 +25,7 @@
       </a>
     </g>
     <g id="y.node.1">
-      <a target="_blank" xlink:type="simple" xlink:href="klimato.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/klimato.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="270" y="242" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -41,7 +41,7 @@
       </a>
     </g>
     <g id="y.node.2">
-      <a target="_blank" xlink:type="simple" xlink:href="akvovaporo.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/akvovaporo.html" xlink:show="new">
         <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(51,51,51)">
           <rect x="412" y="170" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -57,7 +57,7 @@
       </a>
     </g>
     <g id="y.node.3">
-      <a target="_blank" xlink:type="simple" xlink:href="maracidiĝo.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/maracidiĝo.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="554" y="242" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -73,7 +73,7 @@
       </a>
     </g>
     <g id="y.node.4">
-      <a target="_blank" xlink:type="simple" xlink:href="landa_glacio.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/landa_glacio.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="128" y="314" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -89,7 +89,7 @@
       </a>
     </g>
     <g id="y.node.5">
-      <a target="_blank" xlink:type="simple" xlink:href="mara_glacio.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/mara_glacio.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="412" y="314" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -105,7 +105,7 @@
       </a>
     </g>
     <g id="y.node.6">
-      <a target="_blank" xlink:type="simple" xlink:href="lagoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/lagoj.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="128" y="242" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -121,7 +121,7 @@
       </a>
     </g>
     <g id="y.node.7">
-      <a target="_blank" xlink:type="simple" xlink:href="metano.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/metano.html" xlink:show="new">
         <g fill="rgb(51,51,51)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(51,51,51)">
           <rect x="128" y="170" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -137,7 +137,7 @@
       </a>
     </g>
     <g id="y.node.8">
-      <a target="_blank" xlink:type="simple" xlink:href="marfluoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/marfluoj.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="554" y="314" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -153,7 +153,7 @@
       </a>
     </g>
     <g id="y.node.9">
-      <a target="_blank" xlink:type="simple" xlink:href="marsurfaco.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/marsurfaco.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="412" y="242" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -169,7 +169,7 @@
       </a>
     </g>
     <g id="y.node.10">
-      <a target="_blank" xlink:type="simple" xlink:href="aerfluoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/aerfluoj.html" xlink:show="new">
         <g fill="silver" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="silver">
           <rect x="270" y="314" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -185,7 +185,7 @@
       </a>
     </g>
     <g id="y.node.11">
-      <a target="_blank" xlink:type="simple" xlink:href="malstabiliĝo_grundoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/malstabiliĝo_grundoj.html" xlink:show="new">
         <g fill="rgb(204,255,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,255)">
           <rect x="128" y="386" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -201,7 +201,7 @@
       </a>
     </g>
     <g id="y.node.12">
-      <a target="_blank" xlink:type="simple" xlink:href="vetero.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/vetero.html" xlink:show="new">
         <g fill="rgb(204,255,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,255)">
           <rect x="270" y="386" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -217,7 +217,7 @@
       </a>
     </g>
     <g id="y.node.13">
-      <a target="_blank" xlink:type="simple" xlink:href="ĉebordaj_inundoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/ĉebordaj_inundoj.html" xlink:show="new">
         <g fill="rgb(204,255,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,255)">
           <rect x="554" y="458" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -232,7 +232,7 @@
       </a>
     </g>
     <g id="y.node.14">
-      <a target="_blank" xlink:type="simple" xlink:href="marnivelo.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/marnivelo.html" xlink:show="new">
         <g fill="rgb(204,255,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,255)">
           <rect x="412" y="386" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -248,7 +248,7 @@
       </a>
     </g>
     <g id="y.node.15">
-      <a target="_blank" xlink:type="simple" xlink:href="rikoltoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/rikoltoj.html" xlink:show="new">
         <g fill="rgb(204,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,204)">
           <rect x="270" y="530" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -263,7 +263,7 @@
       </a>
     </g>
     <g id="y.node.16">
-      <a target="_blank" xlink:type="simple" xlink:href="landaj_ekosistemoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/landaj_ekosistemoj.html" xlink:show="new">
         <g fill="rgb(204,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,204)">
           <rect x="270" y="458" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -279,7 +279,7 @@
       </a>
     </g>
     <g id="y.node.17">
-      <a target="_blank" xlink:type="simple" xlink:href="maraj_ekosistemoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/maraj_ekosistemoj.html" xlink:show="new">
         <g fill="rgb(204,255,204)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,204)">
           <rect x="412" y="458" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -295,7 +295,7 @@
       </a>
     </g>
     <g id="y.node.18">
-      <a target="_blank" xlink:type="simple" xlink:href="krizoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/krizoj.html" xlink:show="new">
         <g fill="teal" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="teal">
           <rect x="270" y="602" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -310,7 +310,7 @@
       </a>
     </g>
     <g id="y.node.19">
-      <a target="_blank" xlink:type="simple" xlink:href="surlandaj_inundoj.html" xlink:show="new">
+      <a target="_blank" xlink:type="simple" xlink:href="temoj/surlandaj_inundoj.html" xlink:show="new">
         <g fill="rgb(204,255,255)" text-rendering="geometricPrecision" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke="rgb(204,255,255)">
           <rect x="128" y="458" width="117" rx="4" ry="4" height="54" stroke="none"/>
         </g>
@@ -527,6 +527,12 @@
       <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke-linecap="butt">
         <path fill="none" d="M417.2847 511.9824 L388.9147 526.3672"/>
         <path d="M381.7795 529.985 L394.7434 529.0178 L389.8066 525.915 L390.2211 520.0988 Z" stroke="none"/>
+      </g>
+    </g>
+    <g id="y.edge.43">
+      <g text-rendering="geometricPrecision" stroke-miterlimit="1.45" shape-rendering="geometricPrecision" transform="matrix(1,0,0,1,-88,-83)" stroke-linecap="butt">
+        <path fill="none" d="M411.9878 485 L394.9918 485"/>
+        <path d="M386.9918 485 L398.9918 490 L395.9918 485 L398.9918 480 Z" stroke="none"/>
       </g>
     </g>
     <g id="y.edge.23">

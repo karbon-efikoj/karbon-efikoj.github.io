@@ -6,7 +6,7 @@ list_title: Anoncoj
 fontoj:
   - lng: en
     en: CarbonBrief - The impacts of climate change at 1.5C, 2C and beyond
-    eo: Karbonresumo - Efikoj de klimatvarmiĝo je 1.5°C, 2°C aŭ pli
+    eo: Karbonresumo - efikoj de klimatvarmiĝo je 1.5°C, 2°C aŭ pli
     url: https://interactive.carbonbrief.org/impacts-climate-change-one-point-five-degrees-two-degrees/
   - lng: en
     eo: Klimatsignaloj - mapo kun eventoj, kiuj estas atribuitaj al klimatŝanĝiĝo
