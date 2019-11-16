@@ -1,0 +1,250 @@
+# https://www.iban.com/country-codes
+# https://bertilow.com/lanlin/iso.html
+"001": Mondo
+"002": Afriko
+"009": Oceanio
+"019": Amerikoj
+"142": Azio
+"150": Eŭropo
+
+AND:	Andoro
+ARE:	Unuiĝintaj Arabaj Emirlandoj
+AFG: Afganujo
+ATG:	Antigvo kaj Barbudo
+AIA:	Angvilo
+ALB:	Albanujo
+ARM:	Armenujo
+#AN	Nederlandaj Antiloj
+AGO:	Angolo
+ATA:	Antarkto
+ARG:	Argentino
+ASM:	Usona Samoo
+AUT:	Aŭstrujo
+AUS:	Aŭstralio
+ABW:	Arubo
+ALA:	Alando
+AZE:	Azerbajĝano
+BIH:	Bosnujo kaj Hercegovino
+BRB:	Barbado
+BGD:	Bangladeŝo
+BEL:	Belgujo
+BFA:	Burkino
+BGR:	Bulgarujo
+BHR:	Barejno
+BDI:	Burundo
+BEN:	Benino
+BMU:	Bermudoj
+BRN:	Brunejo
+BOL:	Bolivio
+BRA:	Brazilo
+BHS:	Bahamoj
+BTN:	Butano
+BVT:	Buvetinsulo
+BWA:	Bocvano
+BLR:	Belorusujo
+BLZ:	Belizo
+CAN:	Kanado
+CCK:	Kokosinsuloj
+CAF:	Centr-Afriko
+COD:	Kongo (Kinŝasa)
+COG:	Kongo (Brazavila)
+CHE:	Svislando
+CIV:	Ebur-Bordo
+COK:	Kukinsuloj
+CHL:	Ĉilio
+CMR:	Kameruno
+CHN:	Ĉinujo
+COL:	Kolombio
+CRI:	Kostariko
+CUB:	Kubo
+CPV:	Kaboverdo
+CXR:	Kristnaskinsulo
+CYP:	Kipro
+CZE:	Ĉeĥujo
+DEU:	Germanujo
+DJI:	Ĝibutio
+DNK:	Danujo
+DMA:	Dominiko
+DOM:	Dominika Respubliko
+DZA:	Alĝerio
+ECU:	Ekvadoro
+EST:	Estonujo
+EGY:	Egiptujo
+ESH:	Okcidenta Saharo
+ERI:	Eritreo
+ESP:	Hispanujo
+ETH:	Etiopujo
+FIN:	Finnlando
+FJI:	Fiĝio
+FLK:	Falklandoj
+FSM:	Mikronezio
+FRO:	Ferooj
+FRA:	Francujo
+GAB:	Gabono
+GBR:	Britujo
+GRD:	Grenado
+GEO:	Kartvelujo
+GUF:	Franca Gviano
+GHA:	Ganao
+GIB:	Ĝibraltaro
+GRL:	Gronlando
+GMB:	Gambio
+GIN:	Gvineo
+GLP:	Gvadelupo
+GNQ:	Ekvatora Gvineo
+GRC:	Grekujo
+SGS:	Sud-Georgio kaj Sud-Sandviĉinsuloj
+GTM:	Gvatemalo
+GUM:	Gvamo
+GNB:	Gvineo-Bisaŭo
+GUY:	Gujano
+HKG:	Honkongo
+HMD:	Herda kaj Makdonaldaj Insuloj
+HND:	Honduro
+HRV:	Kroatujo
+HTI:	Haitio
+HUN:	Hungarujo
+IDN:	Indonezio
+IRL:	Irlando
+ISR:	Israelo
+IND:	Barato
+IOT:	Brita Hindoceana Teritorio
+IRQ:	Irako
+IRN:	Irano
+ISL:	Islando
+ITA:	Italujo
+JAM:	Jamajko
+JOR:	Jordanio
+JPN:	Japanujo
+KEN:	Kenjo
+KGZ:	Kirgizujo
+KHM:	Kamboĝo
+KIR:	Kiribato
+COM:	Komoroj
+KNA:	Sankta Kristoforo kaj Neviso
+PRK:	Nord-Koreujo
+KOR:	Sud-Koreujo
+KWT:	Kuvajto
+CYM:	Kejmanoj
+KAZ:	Kazaĥujo
+LAO:	Laoso
+LBN:	Libano
+LCA:	Sankta Lucio
+LIE:	Liĥtenŝtejno
+LKA:	Srilanko
+LBR:	Liberio
+LSO:	Lesoto
+LTU:	Litovujo
+LUX:	Luksemburgo
+LVA:	Latvujo
+LBY:	Libio
+MAR:	Maroko
+MCO:	Monako
+MDA:	Moldavujo
+MNE:	Montenegro
+MDG:	Madagaskaro
+MHL:	Marŝaloj
+MKD:	Makedonujo
+MLI:	Malio
+MMR:	Birmo
+MNG:	Mongolujo
+MAC:	Makao
+MNP:	Nord-Marianoj
+MTQ:	Martiniko
+MRR:	Maŭritanio
+MSR:	Moncerato
+MLT:	Malto
+MUS:	Maŭricio
+MDV:	Maldivoj
+MWI:	Malavio
+MEX:	Meksiko
+MYS:	Malajzio
+MOZ:	Mozambiko
+NAM:	Namibio
+NCL:	Nov-Kaledonio
+NER:	Niĝero
+NFK:	Norfolkinsulo
+NGA:	Niĝerio
+NIC:	Nikaragvo
+NLD:	Nederlando
+NOR:	Norvegujo
+NPL:	Nepalo
+NRU:	Nauro
+NIU:	Niuo
+NZL:	Nov-Zelando
+OMN:	Omano
+PAN:	Panamo
+PER:	Peruo
+PYF:	Franca Polinezio
+PNG:	Papuo-Nov-Gvineo
+PHL:	Filipinoj
+PAK:	Pakistano
+POL:	Pollando
+SPM:	Sankta Piero kaj Mikelono
+PCN:	Pitkarna Insulo
+PRI:	Puertoriko
+PSE:	Palestinaj Teritorioj ("Okupaciita Palestina Teritorio")
+PRT:	Portugalujo
+PLW:	Palaŭo
+PRY:	Paragvajo
+QAT:	Kataro
+REU:	Reunio
+ROU:	Rumanujo
+SRB:	Serbujo
+RUS:	Rusujo
+RWA:	Ruando
+SAU:	Sauda Arabujo
+SLB:	Salomonoj
+SYC:	Sejŝeloj
+SDN:	Sudano
+SWE:	Svedujo
+SGP:	Singapuro
+SHN:	Sankta Heleno
+SVN:	Slovenujo
+SJM:	Svalbardo kaj Janmajeno
+SVK:	Slovakujo
+SLE:	Sieraleono
+SMR:	Sanmarino
+SEN:	Senegalo
+SOM:	Somalujo
+SUR:	Surinamo
+STP:	Santomeo kaj Principeo
+SLV:	Salvadoro
+SYR:	Sirio
+SWZ:	Svazilando
+TCA:	Turkoj kaj Kajkoj
+TCD:	Ĉado
+ATF:	Francaj Sudaj Teritorioj
+TGO:	Togolando
+THA:	Tajlando
+TJK:	Taĝikujo
+TKL:	Tokelao
+TKM:	Turkmenujo
+TUN:	Tunizio
+TON:	Tongo
+TLS:	Orienta Timoro
+TUR:	Turkujo
+TTO:	Trinidado kaj Tobago
+TUV:	Tuvalo
+TWN:	Tajvano
+TZA:	Tanzanio
+UKR:	Ukrainujo
+UGA:	Ugando
+UMI:	Usonaj malgrandaj insuloj
+USA:	Usono
+URY:	Urugvajo
+UZB:	Uzbekujo
+VAT:	Vatikano
+VCT:	Sankta Vincento kaj Grenadinoj
+VEN:	Venezuelo
+VGB:	Britaj Virgulininsuloj
+VIR:	Usonaj Virgulininsuloj
+VNM:	Vjetnamujo
+VUT:	Vanuatuo
+WLF:	Valiso kaj Futuno
+WSM:	Samoo
+YEM:	Jemeno
+MYT:	Majoto
+ZAF:	Sud-Afriko
+ZMB:	Zambio
+ZWE:	Zimbabvo
