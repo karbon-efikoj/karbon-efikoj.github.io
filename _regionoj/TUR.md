@@ -13,4 +13,8 @@ fontoj:
     tr: "Carbon Brief Türkiye Profili"
     eo: La karbona profilo de Turkujo
     url: https://www.carbonbrief.org/carbon-brief-profile-turkey
+  - lng: en
+    en: Climate Action Tracker Turkey
+    eo: "Klimataga mezurilo: Turkujo"
+    url: https://climateactiontracker.org/countries/turkey/    
 ---      
