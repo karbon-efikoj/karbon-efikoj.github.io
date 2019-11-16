@@ -2,7 +2,8 @@
 layout: page
 title: Temoj
 ---
-{% for t in site.temoj | sort %}
+{% assign temoj = site.temoj | sort: "title" %}
+{% for t in temoj %}
 {% if t.title %}
 * [{{ t.title | escape }}]({{ t.url | relative_url }})
 {% endif %}  
