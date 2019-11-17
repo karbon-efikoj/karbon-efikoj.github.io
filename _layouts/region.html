@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="post">
-  {% assign title = site.data.reg_eo[page.slug] %}
+  {% assign title = page.titolo | default: site.data.reg_eo[page.slug] %}
   <header class="post-header">
     <h1 class="post-title">{{ title | default: page.slug | escape }}</h1>
   </header>

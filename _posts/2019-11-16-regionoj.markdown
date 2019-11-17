@@ -5,4 +5,4 @@ date:   2019-11-16
 categories: enkonduko
 ---
 
-Aldoniĝis paĝo pri [regionaj situacioj](/regionoj.html) - precipe en diversaj landoj kaj mondpartoj.
+Aldoniĝis jen paĝo pri [situacioj en landoj kaj mondpartoj](/landoj.html).
