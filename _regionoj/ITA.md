@@ -13,6 +13,10 @@ fontoj:
     eo: "Vikipedio: Venecio - Alta akvo"
     url: https://eo.wikipedia.org/wiki/Venecio#Alta_akvo
   - lng: en
+    en: "DW Documentary - Under threat: Venice's need to rescue its future"
+    eo: "Dokumenta filmo de DW: Minacata Venicio devas savi sian estontecon"
+    url: https://www.youtube.com/watch?v=fxpGWcACW6k
+  - lng: en
     en: MOSE Project (to protect Venice from flooding)
     eo: Projekto MOSE  (por protekti Venecion de alta akvo)
     url: https://en.wikipedia.org/wiki/MOSE_Project  

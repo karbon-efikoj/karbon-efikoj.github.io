@@ -5,8 +5,9 @@ title: Landoj
 
 # Plej grandaj laŭjaraj emisiantoj
 
-Laŭ absolutaj ĉiujaraj emisioj, ili kune eligas pli 
-ol du trionojn da forcejgasoj kaj
+Laŭ absolutaj 
+[ĉiujaraj emisioj](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#annual-co2-emissions),
+ili kune eligas pli ol du trionojn da forcejgasoj kaj
 do per sia politiko havas la plej grandan influon
 pri nia estonteco:
 [Ĉinujo](/regionoj/CHN.html): 27%,
