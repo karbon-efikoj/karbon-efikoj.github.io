@@ -12,6 +12,10 @@ fontoj:
   - lng: en
     eo: Tuttera Karbonbuĝeto 2019 
     url: https://www.earth-syst-sci-data.net/11/1783/2019/
+  - lng: de
+    de: Raus aus der Klimakrise - Moralappelle bringen nichts
+    eo: Eliri la klimatkrizon - apelacioj al moralo ne funkcias (tutmondaj CO₂-prezo kaj problemo de kunlaboro)
+    url: https://www.faz.net/aktuell/wirtschaft/klima-energie-und-umwelt/kooperation-fuers-klima-weshalb-moralappelle-nichts-bringen-16522765.html
 ---
 
 
