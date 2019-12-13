@@ -12,6 +12,10 @@ fontoj:
   - lng: en
     eo: Tuttera Karbonbuĝeto 2019 
     url: https://www.earth-syst-sci-data.net/11/1783/2019/
+  - lng: en
+    en: Exiobase - Multi-Regional Environmentally Extended Supply-Use Table (MR-SUT) and Input-Output Table (MR-IOT)
+    eo: Exiobase - multregiona datumbazo por analizi la efikon al medio de produkto-grupoj
+    url: https://www.exiobase.eu/
   - lng: de
     de: Raus aus der Klimakrise - Moralappelle bringen nichts
     eo: Eliri la klimatkrizon - apelacioj al moralo ne funkcias (tutmondaj CO₂-prezo kaj problemo de kunlaboro)
