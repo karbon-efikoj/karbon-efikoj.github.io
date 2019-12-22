@@ -20,6 +20,10 @@ fontoj:
     de: Raus aus der Klimakrise - Moralappelle bringen nichts
     eo: Eliri la klimatkrizon - apelacioj al moralo ne funkcias (tutmondaj CO₂-prezo kaj problemo de kunlaboro)
     url: https://www.faz.net/aktuell/wirtschaft/klima-energie-und-umwelt/kooperation-fuers-klima-weshalb-moralappelle-nichts-bringen-16522765.html
+  - lng: en
+    url: https://www.advancedsciencenews.com/sf6-worries-the-most-potent-and-persistent-greenhouse-gas/
+    en: SF6 Worries – The Most Potent and Persistent Greenhouse Gas
+    eo: Zorgoj pri SF6 - La plej potenca forcejefika gaso
 ---
 
 

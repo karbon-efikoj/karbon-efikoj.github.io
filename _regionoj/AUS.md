@@ -9,4 +9,8 @@ fontoj:
     en: Climate Action Tracker Australia
     eo: "Klimataga mezurilo: Aŭstralio"
     url: https://climateactiontracker.org/countries/australia/   
----     
+  - lng: en
+    url: https://myfirewatch.landgate.wa.gov.au/
+    en: FireWatch
+    eo: "Fajro-observo (per satelitoj)"
+---

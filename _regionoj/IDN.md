@@ -13,4 +13,8 @@ fontoj:
     en: Climate Action Tracker Indoesia
     eo: "Klimataga mezurilo: Indonezio"
     url: https://climateactiontracker.org/countries/indonesia/      
----      
+  - lng: en
+    url: https://myfirewatch.landgate.wa.gov.au/
+    en: FireWatch
+    eo: "Fajro-observo (per satelitoj)"
+---
