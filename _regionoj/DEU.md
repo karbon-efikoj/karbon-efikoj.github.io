@@ -29,4 +29,8 @@ fontoj:
     url: https://www.arktik.de/klimaschutzprojekte
     de: arktik.de - Klimaschutzprojekte
     eo: arktik.de - klimatprotektaj projektoj
+  - lng: de
+    url: https://www.xdegreecompatible.de/
+    de: "XDC: Um wie viel °C würde sich die Erde bis 2050 erwärmen, wenn jedes Unternehmen so emissionsintensiv wirtschaften würde, wie ..."
+    eo: "XDC: kiom da gradoj la tero varmiĝus ĝis 2050, se ĉiu entrepreno emisius tiom, kiel..."
 ---
