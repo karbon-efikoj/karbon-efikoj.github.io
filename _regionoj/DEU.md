@@ -1,6 +1,9 @@
 ---
 layout: region
 fontoj:
+  - lng: de
+    eo: Vendredoj por Estonteco - Strikoj
+    url: https://fridaysforfuture.de/streiktermine/
   - lng: en
     en: Climate change Germany
     eo: Klimatŝanĝo en Germanujo
