@@ -16,10 +16,6 @@ fontoj:
     en: Exiobase - Multi-Regional Environmentally Extended Supply-Use Table (MR-SUT) and Input-Output Table (MR-IOT)
     eo: Exiobase - multregiona datumbazo por analizi la efikon al medio de produkto-grupoj
     url: https://www.exiobase.eu/
-  - lng: de
-    de: Raus aus der Klimakrise - Moralappelle bringen nichts
-    eo: Eliri la klimatkrizon - apelacioj al moralo ne funkcias (tutmondaj CO₂-prezo kaj problemo de kunlaboro)
-    url: https://www.faz.net/aktuell/wirtschaft/klima-energie-und-umwelt/kooperation-fuers-klima-weshalb-moralappelle-nichts-bringen-16522765.html
   - lng: en
     url: https://www.advancedsciencenews.com/sf6-worries-the-most-potent-and-persistent-greenhouse-gas/
     en: SF₆ Worries – The Most Potent and Persistent Greenhouse Gas
