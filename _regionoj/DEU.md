@@ -4,6 +4,10 @@ fontoj:
   - lng: de
     eo: Vendredoj por Estonteco - Strikoj
     url: https://fridaysforfuture.de/streiktermine/
+  - lng: de
+    de: "Umweltbundesamt: Klimadaten"
+    eo: "Federacia Oficejo pri Medio: datumoj pri klimato"
+    url: https://www.umweltbundesamt.de/daten/klima
   - lng: en
     en: Climate change Germany
     eo: Klimatŝanĝo en Germanujo
