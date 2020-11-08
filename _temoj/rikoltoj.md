@@ -31,5 +31,9 @@ fontoj:
     en: Our World in Data - Famines
     eo: Nia mondo laŭ datumoj - Malsatoj
     url: https://ourworldindata.org/famines
+  - lng: en
+    en: United Nations World Food Programme - Innovation Accelerator
+    eo: Monda Nutraĵo-Programo de Unuĝintaj Nacioj - Rapidigilo de Novaj Solvoj
+    url: https://innovation.wfp.org/
 ---
 
