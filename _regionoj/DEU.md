@@ -1,6 +1,10 @@
 ---
 layout: region
 fontoj:
+  - lng: en
+    en: Climate Action Tracker Germany
+    eo: "Klimataga mezurilo: Germanujo"
+    url: https://climateactiontracker.org/countries/germany/
   - lng: de
     eo: Vendredoj por Estonteco - Strikoj
     url: https://fridaysforfuture.de/streiktermine/

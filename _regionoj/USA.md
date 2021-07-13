@@ -2,6 +2,10 @@
 layout: region
 fontoj:
   - lng: en
+    en: "The Carbon Brief Profile: USA"
+    eo: La karbona profilo de Usono
+    url: https://www.carbonbrief.org/the-carbon-brief-profile-united-states
+  - lng: en
     en: "Wikipedia: Climate change in the United States"
     eo: "Vikipedio: Klimatŝanĝo en Usono"
     url: https://en.wikipedia.org/wiki/Climate_change_in_the_United_States

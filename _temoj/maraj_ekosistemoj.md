@@ -15,4 +15,8 @@ fontoj:
     de: "ARTE: Korallensterben - können wir das Korallenriff retten?"
     eo: "ARTE: Koralmortado - ĉu ni povas savi la rifojn?"
     url: https://www.youtube.com/watch?v=2k_U7p20c5M
+  - lng: de
+    de: "Spektrum.de: Sargassum - Neuer Fluch der Karibik"
+    eo: "Spektrum.de: Sargaso - Nova Malbeno de Kariba Maro"
+    url: https://www.spektrum.de/news/sargassum-braunalgen-bedrohen-oekosysteme-und-schaffen-neue/1578560
 ---    
