@@ -13,4 +13,8 @@ fontoj:
   - lng: de
     eo: "Filmo de Jung&Naiv: Klimatesploristino Fredi Otto pri ekstremaj vetereventoj"
     url: https://www.youtube.com/watch?v=xXYLPx63muE
+  - lng: en
+    en: A map showing proportional impacts of climate change on regions and people
+    eo: Mapo proporcie montranta efikojn de klimatŝanĝo al regionoj kaj homoj
+    url: https://cli-mat.traines.eu
 ---

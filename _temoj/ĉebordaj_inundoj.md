@@ -15,4 +15,8 @@ fontoj:
     en: Loss of cultural world heritage and currently inhabited places to sea-level rise, Environmental Research Letters, 2014
     eo: Perdo de mondkultur-heredaĵo kaj nuntempe loĝataj areoj pro marleviĝo, Leteroj pri Mediesplorado, 2014
     url: https://iopscience.iop.org/article/10.1088/1748-9326/9/3/034001
+  - lng: en
+    en: A map showing proportional impacts of climate change on regions and people
+    eo: Mapo proporcie montranta efikojn de klimatŝanĝo al regionoj kaj homoj
+    url: https://cli-mat.traines.eu
 ---

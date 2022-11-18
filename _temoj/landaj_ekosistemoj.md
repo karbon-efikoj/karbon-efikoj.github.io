@@ -19,4 +19,8 @@ fontoj:
     en: "Convention on Biological Diversity: Identifying Vulnerable Ecosystems and Biodiversity"
     eo: "Konvencio pri biologia diverseco: Identigi vundeblajn ekosistemojn kaj biologian diversecon"
     url: https://adaptation.cbd.int/vulnerabilities.shtml
+  - lng: en
+    en: A map showing proportional impacts of climate change on regions and people
+    eo: Mapo proporcie montranta efikojn de klimatŝanĝo al regionoj kaj homoj
+    url: https://cli-mat.traines.eu
 ---
