@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Maraj ekosistemoj
-temo: maraj_ekosistemoj
+title: Varmiĝo de marsurfaco
+temo: marsurfaco
 fontoj:
   - lng: en
     en: "Daily Sea Surface Temperature"
