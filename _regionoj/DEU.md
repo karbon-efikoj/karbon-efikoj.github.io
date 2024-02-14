@@ -36,12 +36,17 @@ fontoj:
     url: https://www.atmosfair.de/
     de: atmosfair.de - klimabewusst reisen
     eo: atmosfair.de - vojaĝi klimatkonscie
+---
+
+<!--
+
   - lng: de
-    url: https://www.arktik.de/klimaschutzprojekte
-    de: arktik.de - Klimaschutzprojekte
-    eo: arktik.de - klimatprotektaj projektoj
+    url: https://www.aq-greentec.com/de
+    de: AQ green TeC
+    eo: AQ green TeC
   - lng: de
-    url: https://www.xdegreecompatible.de/
+    url: https://www.xdegreecompatible.com/
     de: "XDC: Um wie viel °C würde sich die Erde bis 2050 erwärmen, wenn jedes Unternehmen so emissionsintensiv wirtschaften würde, wie ..."
     eo: "XDC: kiom da gradoj la tero varmiĝus ĝis 2050, se ĉiu entrepreno emisius tiom, kiel..."
----
+
+-->    
