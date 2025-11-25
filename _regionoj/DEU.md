@@ -5,6 +5,10 @@ fontoj:
     en: Climate Action Tracker Germany
     eo: "Klimataga mezurilo: Germanujo"
     url: https://climateactiontracker.org/countries/germany/
+  - lng: en
+    en: "The Carbon Brief Profile: Germany"
+    eo: La karbona profilo de Germanujo
+    url: https://interactive.carbonbrief.org/the-carbon-brief-profile-germany/
   - lng: de
     eo: Vendredoj por Estonteco - Strikoj
     url: https://fridaysforfuture.de/streiktermine/
