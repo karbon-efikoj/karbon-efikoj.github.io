@@ -12,4 +12,4 @@ Vidu [la artikolon en angla lingvo](https://atmosphere.copernicus.eu/copernicus-
 
 Tio iom kontraŭas la percepton de eŭropanoj, en kies mondparto abundas arbarfajroj en Julio.
 Sed ankaŭ la statistiko pri [forbrulinta areo laŭ semajno en Eŭropo](https://ourworldindata.org/grapher/cumulative-area-burnt-by-wildfires-by-week?time=earliest..latest&country=~OWID_EUR) ĉe Our World In Data
-konfirmas la la tendencon.
+konfirmas la tendencon.
