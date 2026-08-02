@@ -10,6 +10,9 @@ fontoj:
     eo: Nia Mondo en Datumoj - Emisioj de karbonaĵoj
     url: https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions
   - lng: en
+    eo: Mapo 'Climatetrace' kun emisiantoj de karbonaĵoj
+    url: https://climatetrace.org/map
+  - lng: en
     eo: Tuttera Karbonbuĝeto 2019 
     url: https://www.earth-syst-sci-data.net/11/1783/2019/
   - lng: en
